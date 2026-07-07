@@ -13,5 +13,15 @@ Student Name: Sobrevinas, Aleeiah Denise
 Course: 	IT 3012 - System Integration and Architecture 1
 Section: BSIT-BA-2D
 
+feature/member-management
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
+
 
 
