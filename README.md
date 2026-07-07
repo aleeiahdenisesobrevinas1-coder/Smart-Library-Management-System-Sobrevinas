@@ -15,7 +15,7 @@ Project Modules
 - Borrowing
 - Returning
 
-- Book Borrowing
+- Book Borrowing 
 - Book Returning
 - Inventory Management
 - Reports
